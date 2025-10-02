@@ -9,8 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 2.03</p>
-    <p>81 Woodland Road</p>
+    <p>Room 2.03
+    </p>
+    <p>81 Woodland Road
+    </p>
     <p>Bristol, BS8 1US</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
