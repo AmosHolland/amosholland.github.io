@@ -9,11 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 2.03</p>
-    <br/>
-    <p>81 Woodland Road</p>
-    <br/>
-    <p>Bristol, BS8 1US</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -30,8 +25,15 @@ latest_posts:
 ---
 
 PhD Student in the [Programming Languages Research Group](https://plrg-bristol.github.io) at the [University of Bristol](https://bristol.ac.uk), under the supervision of [Dr. Steven Ramsay](https://sjrsay.github.io/).
-
-My research interests include:
+#### Research Interests
 - Type Systems for Incorrectness
 - Automated error detection for Dynamically typed langauges
 - Program Verification
+
+#### Address
+Room 2.03
+81 Woodland Road
+Bristol
+BS8 1UB
+
+email: amos.holland@bristol.ac.uk
