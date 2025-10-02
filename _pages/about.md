@@ -2,17 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.bristol.ac.uk/'>University of Bristol</a>..
+subtitle: (he/they)
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 2.03
-    </p>
-    <p>81 Woodland Road
-    </p>
+    <p>Room 2.03</p>
+    <p>81 Woodland Road</p>
     <p>Bristol, BS8 1US</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -30,3 +28,8 @@ latest_posts:
 ---
 
 PhD Student in the [Programming Languages Research Group](https://plrg-bristol.github.io) at the [University of Bristol](https://bristol.ac.uk), under the supervision of [Dr. Steven Ramsay](https://sjrsay.github.io/).
+
+My research interests include:
+- Type Systems for Incorrectness
+- Automated error detection for Dynamically typed langauges
+- Program Verification
