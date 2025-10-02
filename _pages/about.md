@@ -2,18 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.bristol.ac.uk/'>University of Bristol</a>..
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room 2.03</p>
+    <p>81 Woodland Road</p>
+    <p>Bristol, BS8 1US</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-PhD Student at the University of Bristol.
+PhD Student in the [Programming Languages Research Group](https://plrg-bristol.github.io) at the [University of Bristol](https://bristol.ac.uk), under the supervision of [Dr. Steven Ramsay](https://sjrsay.github.io/).
