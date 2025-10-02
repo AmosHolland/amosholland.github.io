@@ -10,7 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Room 2.03</p>
+    <br/>
     <p>81 Woodland Road</p>
+    <br/>
     <p>Bristol, BS8 1US</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
