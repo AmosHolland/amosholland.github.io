@@ -7,7 +7,7 @@ subtitle: (he/they)
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <div>2.03</div>
     <div>81 Woodland Road</div>
