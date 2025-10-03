@@ -31,9 +31,10 @@ PhD Student in the [Programming Languages Research Group](https://plrg-bristol.g
 - Program Verification
 
 #### Address
-Room 2.03
-81 Woodland Road
-Bristol
-BS8 1UB
+Room 2.03. 
+81 Woodland Road. 
+Bristol. 
+BS8 1UB. 
+  
 
 email: amos.holland@bristol.ac.uk
