@@ -1,0 +1,38 @@
+# The URL the site will be built for
+base_url = "https://amosholland.github.io"
+
+theme = "terminus"
+
+title = "Amos Holland"
+
+taxonomies = [
+    { name = "tags", feed = true },
+    { name = "categories", feed = true, paginate_by = 5 },
+]
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+[markdown]
+
+[markdown.highlighting]
+theme = "catppuccin-mocha"
+
+[extra]
+# Put all your custom variables here
+main_menu = [
+    { name = "blog", url = "blog", trailing_slash = true },
+    # { name = "archive", url = "archive", trailing_slash = true },
+    # { name = "tags", url = "tags", trailing_slash = true },
+    # { name = "projects", url = "projects", trailing_slash = true },
+    { name = "github", url = "https://github.com/amosholland/amosholland.github.io", new_tab = true },
+]
+
+socials = [
+    { name = "email", url = "mailto:amos.holland@bristol.ac.uk" },
+    { name = "github", url = "https://github.com/AmosHolland" },
+    { name = "linkedin", url = "https://www.linkedin.com/in/amos-holland" },
+]
