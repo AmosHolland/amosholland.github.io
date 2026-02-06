@@ -5,6 +5,7 @@ title = "Front Page"
 framed = true
 section_path = "blog/_index.md"
 max_posts = 0
+stylesheets = ["extra.css"]
 +++
 <div id="wrapper">
     <img class="center-img" src="headshot_cropped.jpg" style="display:inline-block" width=25%/>
@@ -29,10 +30,3 @@ I enjoy to pretty much all things PL, but I'm particularly interested in type sy
 - Types For Incorrectness
 - Error Detection in Dynamically Typed Languages
 - Verification in Languages with Objects
-
-# Address
-2.03\
-81 Woodland Road\
-Bristol\
-BS8 1US
-
