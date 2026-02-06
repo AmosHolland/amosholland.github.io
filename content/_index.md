@@ -8,16 +8,13 @@ max_posts = 0
 stylesheets = ["extra.css"]
 +++
 <div id="wrapper">
-    <img class="center-img" src="headshot_cropped.jpg" style="display:inline-block" width=27%/>
+    <img class="center-img" src="headshot_cropped.jpg" style="display:inline-block" width=20%/>
     <div class="center-txt">
         Amos Holland (he/they) <br>
-        -------------------------- <br>
+        --------------------------------------- <br>
+        PhD Student @ The University of Bristol<br>
+        --------------------------------------- <br>
         amos.holland@bristol.ac.uk <br>
-        -------------------------- <br>
-        2.03 <br>
-        81 Woodland Road <br>
-        Bristol <br>
-        BS8 1US <br>
 </div>
 
 # About
