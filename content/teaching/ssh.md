@@ -3,6 +3,9 @@ title = "Using SSH at UoB"
 description = "A short guide on using SSH at The Univeristy of Bristol. Specifically tailored for Computer Science students."
 date = 2026-07-02
 authors = []
+
+[extra]
+copy_button = true
 +++
 
 While studying Computer Science at the Univeristy of Bristol it's likely that 
