@@ -19,7 +19,7 @@ Last academic year (2025/26), I worked as a TA on
 (Computer Architecuture), 
 [COMS10016](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS10016) 
 (Functional Programming), 
-[COMS10018](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS10015) 
+[COMS10018](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS10018) 
 (Algorithms I),
 [COMS30040](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS30040) 
 (Types and Lambda Calculus), and 
