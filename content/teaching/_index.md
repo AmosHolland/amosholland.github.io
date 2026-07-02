@@ -14,7 +14,7 @@ copy_button = true
 I teach (/ have taught) on a number of units at the University of Bristol, 
 all in the School of Computer Science.
 
-Last year, I worked as a TA on [COMS10015](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS10015) (Computer Architecuture), [COMS10016](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS10016) (Funcitonal Programming), [COMS10018](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS10015) (Algorithms I),
+Last year, I worked as a TA on [COMS10015](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS10015) (Computer Architecuture), [COMS10016](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS10016) (Functional Programming), [COMS10018](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS10015) (Algorithms I),
 [COMS30040](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS30040) (Types and Lambda Calculus), and 
 [COMSM1201](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMSM1201) (Programming in C).
 
