@@ -47,7 +47,8 @@ connect to seis, then connect to the lab machine from seis.
 # Section 1: Accessing lab machines remotely while on campus
 
 The address of the linux lab machines is `rd-mvb-linuxlab.bristol.ac.uk`. To 
-connect to a machine remotely we just need to run the command.
+connect to a machine remotely we just need to run the command. Start by running
+this.
 
 ```bash
 ssh USERNAME@rd-mvb-linuxlab.bristol.ac.uk
@@ -64,7 +65,14 @@ Technically this is all we need, but it would be nice to not have to type our
 our password every time - we can make this possible using the key we generated 
 earlier!
 
-First, leave the ssh session by running:
+While we are here, we need to create a `.ssh` directory which we will use later.
+Run the following command (while still connected to the lab machine):
+
+```bash
+mkdir $HOME/.ssh
+```
+
+Next, leave the ssh session by running:
 
 ```bash
 exit
@@ -134,11 +142,23 @@ ssh USERNAME@seis.bristol.ac.uk
 
 Using the same password that you sue for the lab machines.
 
-First, we need to set up quick access to seis in the same way we did
+Once again, we will create a `.ssh` directory to use later.
+
+```bash
+mkdir $HOME/.ssh
+```
+
+Then, exit back to you own machine using
+
+```bash
+exit
+```
+
+Next, we need to set up quick access to seis in the same way we did
 for the lab machines, so you will need to copy your public key onto seis
 
 ```bash
-scp $HOME/.ssh/lab-machines USERNAME@seis.bristol.ac.uk:.ssh/
+scp $HOME/.ssh/lab-machines.pub USERNAME@seis.bristol.ac.uk:.ssh/
 ```
 
 then connect to seis, and add the key to the set of authorized keys
@@ -148,7 +168,7 @@ ssh USERNAME@seis.bristol.ac.uk
 ```
 
 ```bash 
-cat $HOME/.ssh/lab-machines >> $HOME/.ssh/authorized_keys
+cat $HOME/.ssh/lab-machines.pub >> $HOME/.ssh/authorized_keys
 ```
 and add the following to the bottom of your ssh `config` file:
 
