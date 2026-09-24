@@ -72,6 +72,8 @@ Run the following command (while still connected to the lab machine):
 mkdir $HOME/.ssh
 ```
 
+If a `.ssh` directory already exists that is fine.
+
 Next, leave the ssh session by running:
 
 ```bash
@@ -142,11 +144,14 @@ ssh USERNAME@seis.bristol.ac.uk
 
 Using the same password that you sue for the lab machines.
 
-Once again, we will create a `.ssh` directory to use later.
+Once again, while connected to `seis`, we will create a `.ssh` directory to use 
+later.
 
 ```bash
 mkdir $HOME/.ssh
 ```
+
+If a `.ssh` directory already exists that is fine.
 
 Then, exit back to you own machine using
 
